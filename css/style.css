@@ -29,7 +29,7 @@ body {
 
 body {
     position: relative;
-    background-color: #121212
+    background-image:url("/asset/7jQh3EiS8Bs.jpg");
 }
 
 img {
@@ -68,7 +68,7 @@ img {
     -ms-flex-align: center;
     align-items: center;
     font-family: 'Roboto Mono', monospace;
-    background-color: #0a0808;
+    background-color: #4A4A4A;
     overflow-y: scroll
 }
 
@@ -161,7 +161,7 @@ img {
 
 @media screen and (min-width: 1025px) {
     body {
-        background-color: #121212
+        background-color: #4A4A4A
     }
 
     .phone {
